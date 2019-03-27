@@ -1,7 +1,7 @@
-"superlists/db.sqlite3"
-"superlists/geckodriver.log"
-"*.pyc"
-"*.pyc"
-"*/__pycache__"
-"superlists/lists/__pycache__/"
-"superlists/lists/__pycache__"
+superlists/db.sqlite3
+superlists/geckodriver.log
+*.pyc
+*.pyc
+*/__pycache__
+superlists/lists/__pycache__/
+superlists/lists/__pycache__
