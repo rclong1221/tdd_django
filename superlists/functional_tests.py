@@ -16,6 +16,7 @@ class NewVisitorTest(unittest.TestCase):
         assert 'To-Do' in self.browser.title, 'Browser title was "{}"'.format(self.browser.title)
 
         # She is invited to enter a to-do item
+        self.fail("Finish the test...")
 
         # She types make Dan clean the dishes
 
