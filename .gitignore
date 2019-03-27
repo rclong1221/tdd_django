@@ -2,6 +2,6 @@
 "superlists/geckodriver.log"
 "*.pyc"
 "*.pyc"
-"*/__pycache__" 
+"*/__pycache__"
 "superlists/lists/__pycache__/"
 "superlists/lists/__pycache__"
